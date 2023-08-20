@@ -17,3 +17,7 @@ document.write(frase)
 nombre = "César García"
 frase = `Soy ${nombre} y estoy caminando`
 document.write(frase)
+
+let myVar = 11;
+myVar = --1;
+document.write(myVar)
